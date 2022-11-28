@@ -1,0 +1,11 @@
+C:\Users\Utilisateur\OneDrive\Bureau\COURS SIO\SLAM SISR etc Pernelle\TP note\TP note\bin\Debug\TP note.exe.config
+C:\Users\Utilisateur\OneDrive\Bureau\COURS SIO\SLAM SISR etc Pernelle\TP note\TP note\bin\Debug\TP note.exe
+C:\Users\Utilisateur\OneDrive\Bureau\COURS SIO\SLAM SISR etc Pernelle\TP note\TP note\bin\Debug\TP note.pdb
+C:\Users\Utilisateur\OneDrive\Bureau\COURS SIO\SLAM SISR etc Pernelle\TP note\TP note\obj\Debug\TP note.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\OneDrive\Bureau\COURS SIO\SLAM SISR etc Pernelle\TP note\TP note\obj\Debug\TP note.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utilisateur\OneDrive\Bureau\COURS SIO\SLAM SISR etc Pernelle\TP note\TP note\obj\Debug\TP_note.Properties.Resources.resources
+C:\Users\Utilisateur\OneDrive\Bureau\COURS SIO\SLAM SISR etc Pernelle\TP note\TP note\obj\Debug\TP note.csproj.GenerateResource.cache
+C:\Users\Utilisateur\OneDrive\Bureau\COURS SIO\SLAM SISR etc Pernelle\TP note\TP note\obj\Debug\TP note.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\OneDrive\Bureau\COURS SIO\SLAM SISR etc Pernelle\TP note\TP note\obj\Debug\TP note.exe
+C:\Users\Utilisateur\OneDrive\Bureau\COURS SIO\SLAM SISR etc Pernelle\TP note\TP note\obj\Debug\TP note.pdb
+C:\Users\Utilisateur\OneDrive\Bureau\COURS SIO\SLAM SISR etc Pernelle\TP note\TP note\obj\Debug\TP_note.Produits.resources
